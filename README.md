@@ -5,6 +5,8 @@ PRIMERA PARTE: EXCEPCIONES, SEGURIDAD CONTRA NULOS Y DEPURACIÓN
 
 SEGUNDA PARTE: BANCO
 
+Los documentos de cada uno de los ejercicios, estan dentro de la carpeta correspondiente
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
